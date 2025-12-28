@@ -35,8 +35,7 @@ Together, these form a stable **geometry of mind** rather than a typology identi
 ---
 
 ## Why This Exists
-
-Most "typology" systems drift into pop psychology or unfalsifiable storytelling.  
+ 
 This framework aims to:
 
 - move from labels → architecture  
