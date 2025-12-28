@@ -29,7 +29,10 @@ Every cognitive domain expresses this same relationship:
 This creates a universal axis pair:
 
 ```
+Field --------------------------- Depth
+(Between) (Within)
 
+```
 ---
 
 ## The Three Planes
@@ -104,9 +107,6 @@ This explains:
 - why Te sees “what works” while Ti sees “what is correct”
 
 ---
-Field --------------------------- Depth
-(Between) (Within)
-```
 
 # 3️⃣ Perceptual Reality Plane
 
