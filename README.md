@@ -74,7 +74,7 @@ These can potentially be measured, observed, and modelled scientifically.
 ## Repository Structure
 
 ---
-
+```
 
 cognitive-field-architecture/
 ├── README.md
@@ -93,6 +93,7 @@ cognitive-field-architecture/
 ├── definitions.md
 └── origin-story.md
 
+```
 
 ---
 
