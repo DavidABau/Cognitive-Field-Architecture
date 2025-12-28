@@ -240,5 +240,3 @@ In this model,
 integration = **a larger, more generous mind.**
 
 ---
-
-End of document.
