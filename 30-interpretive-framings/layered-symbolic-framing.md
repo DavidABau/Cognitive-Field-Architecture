@@ -25,3 +25,4 @@ Rather than defining what a person “is,” this framing describes how awarenes
 Its aim is simply to offer another language for understanding the same territory that CFA maps structurally: a way to speak to the depth, richness, and humanity of inner life while remaining grounded, coherent, and connected to reality.
 
 ---
+[For a structural and architectural description of the Cognitive Field Architecture, see 10-core-geometry/planes-and-axes.md.](https://github.com/DavidABau/Cognitive-Field-Architecture/blob/main/10-core-geometry/planes-and-axes.md)
