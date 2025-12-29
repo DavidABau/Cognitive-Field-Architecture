@@ -73,31 +73,6 @@ These can potentially be measured, observed, and modelled scientifically.
 
 ---
 
-## Repository Structure
-
----
-```
-
-cognitive-field-architecture/
-├── README.md
-├── 00-overview/
-│ └── model-summary.md
-├── 10-core-geometry/
-│ ├── planes-and-axes.md
-│ ├── emotional-plane.md
-│ ├── rational-plane.md
-│ └── perceptual-plane.md
-├── 20-human-experience/
-│ ├── regulation-and-safety.md
-│ ├── conflict-and-misalignment.md
-│ └── development-and-integration.md
-└── 30-appendix/
-├── definitions.md
-
-```
-
----
-
 ## Tone and Positioning
 
 This is **not**:
