@@ -1,4 +1,4 @@
-### Layered Symbolic Framing
+# Layered Symbolic Framing
 
 ---
 
