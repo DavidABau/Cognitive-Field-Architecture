@@ -90,7 +90,6 @@ cognitive-field-architecture/
 │ └── development-and-integration.md
 └── 30-appendix/
 ├── definitions.md
-└── origin-story.md
 
 ```
 
@@ -107,13 +106,5 @@ This **is**:
 - a structural cognitive framework  
 - precise, sober, grounded  
 - open to scientific scrutiny  
-
----
-
-## Origin
-
-This model did not come from abstraction alone.  
-It grew from a real human moment of tension, misunderstanding, and a refusal to dismiss another person’s inner world.  
-It came from care first, theory second.
 
 ---
