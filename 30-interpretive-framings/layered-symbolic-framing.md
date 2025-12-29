@@ -1,8 +1,8 @@
-###Layered Symbolic Framing
+### Layered Symbolic Framing
 
 ---
 
-##About This Interpretive Framing
+## About This Interpretive Framing
 
 ---
 
@@ -10,7 +10,7 @@ This essay offers a symbolic and experiential way of understanding the Cognitive
 
 ---
 
-##A Symbolic, Layered Perspective on Awareness
+## A Symbolic, Layered Perspective on Awareness
 
 ---
 
