@@ -120,3 +120,21 @@ This model is offered as a thoughtful theoretical framework rather than a finish
 
 ---
  [Start here with overview](https://github.com/DavidABau/Cognitive-Field-Architecture/blob/main/00-overview/model-summary.md)
+
+---
+
+Relationship to Other Repositories
+
+Dynamic-Field-Model [(DFM)](https://davidabau.github.io/Dynamic-Field-Model/)
+CFA describes the internal geometry of cognition—how perception, emotion, and rational processing interact as a dynamic field. DFM builds outward from this, exploring how internal cognitive fields participate in larger dynamic systems, including behaviour, feedback loops, regulation, and interaction with environments.
+
+Meaning–Myth–and–Metaphysics [(MMM)](https://davidabau.github.io/Meaning-Myth-and-Metaphysics/)
+While CFA remains grounded and structural, MMM explores how humans create meaning frameworks, symbolic narratives, and mythic perspectives around experience. CFA provides the cognitive architecture, while MMM explores how minds interpret experience through symbolic worldviews.
+
+Idea Orientation Guide [(IOG)](https://davidabau.github.io/idea-orientation-guide/)
+CFA explains how awareness shifts and stabilises. The Idea Orientation Guide takes this further by offering practical navigation tools for relating to ideas, beliefs, and information in grounded and healthy ways.
+
+Oscillation & Amplification [(O&A)](https://davidabau.github.io/Oscillation-Amplification/)
+CFA explains the movement of awareness across emotional, rational, and perceptual fields. Oscillation & Amplification builds on this to explore how AI systems amplify, stabilise, or distort these cognitive fields, and what healthy human–AI relationships require.
+
+---
