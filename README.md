@@ -35,6 +35,9 @@ Together, these form a stable **geometry of mind** rather than a typology identi
 ---
 
 ## Why This Exists
+
+This framework does not reject typology traditions. Instead, it reframes their insights within a structural model that treats cognition as part of a dynamic, layered system of awareness rather than a fixed identity category.
+The goal is to describe stabilisation patterns in a way that remains grounded, humane, and open to rigorous examination.
  
 This framework aims to:
 
