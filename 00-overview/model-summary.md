@@ -114,7 +114,7 @@ This produces a **stable cognitive geometry** rather than a typology chart.
 
 ```
 Field ---------------------- Depth
-(Between) (Within)
+(Between)                 (Within)
 ```
 
 Stacked across three planes, cognition forms a **tri-plane architecture**.
