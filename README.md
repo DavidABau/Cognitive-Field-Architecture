@@ -5,14 +5,16 @@ For a broader understanding of how this work fits into the wider framework of re
 
 This project proposes a non-mystical, scientifically leaning framework for understanding human cognition as a set of structured attentional orientations rather than as personality labels.
 
-![CFA visual](https://github.com/DavidABau/Cognitive-Field-Architecture/blob/main/CFAimage.png)
-
 It reframes the familiar "cognitive functions" into a clear geometric architecture:
 
 **Field Awareness (horizontal)** → tuning to what exists *between* things  
 **Depth Awareness (vertical)** → tuning to what exists *within* things
 
 Organised across three orthogonal planes of cognition:
+
+---
+
+![CFA visual](https://github.com/DavidABau/Cognitive-Field-Architecture/blob/main/CFAimage.png)
 
 ---
 
