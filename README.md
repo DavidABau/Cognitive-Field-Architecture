@@ -5,12 +5,6 @@ For a broader understanding of how this work fits into the wider framework of re
 
 ---
 
-CFA in one glance: interacting fields of awareness (emotional, rational, perceptual) stabilising or fragmenting under load.
-
-![CFA visual](https://github.com/DavidABau/Cognitive-Field-Architecture/blob/main/CFAimage.png)
-
----
-
 This project proposes a non-mystical, scientifically leaning framework for understanding human cognition as a set of structured attentional orientations rather than as personality labels.
 
 It reframes the familiar "cognitive functions" into a clear geometric architecture:
